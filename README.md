@@ -5,7 +5,7 @@ Finished project (still open for future fixes) :
 - Automated Shopee.sg coin collector.
 
 Future project :
-- Scrape
+- Scrape lowest price guarantee products and provide price comparisons.
 
 ## Requires :
 - python
