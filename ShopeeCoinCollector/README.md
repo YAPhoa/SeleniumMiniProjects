@@ -1,4 +1,4 @@
-#Automated Coin Collector
+# Automated Coin Collector
 
 Script can be set to run daily to collect shopee coins. 
 
